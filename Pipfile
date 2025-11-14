@@ -23,6 +23,7 @@ flask-jwt-extended = "*"
 cloudinary = "*"
 werkzeug = "*"
 stripe = "*"
+tomli = "*"
 
 [requires]
 python_version = "3.13"
